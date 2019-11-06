@@ -1,0 +1,14 @@
+{
+  "name": "mybootstrap",
+  "version": "1.0.0",
+  "description": "Repositorio que muestra como hacer una version personalizada de Bootstrap 4 con Node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Bootstrap"
+  ],
+  "author": "Benjamin Camacho",
+  "license": "MIT"
+}
